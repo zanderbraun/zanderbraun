@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**zanderbraun/zanderbraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @zanderbraun
+- 👀 I’m interested in GameDev
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on open source projects
+- 🔭 I’m currently working on my personal project
+- 🤔 I’m looking for help with code basics
+- 📫 How to reach me: dm
+- ⚡ Fun fact: synths should be free
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+zanderbraun/zanderbraun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
