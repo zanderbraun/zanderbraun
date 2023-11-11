@@ -1,13 +1,10 @@
-### Hi there 👋
+### What's up ✌️
 
-- 👋 Hi, I’m @zanderbraun
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on open source projects
-- 🔭 I’m currently working on my personal project
-- 🤔 I’m looking for help with code basics
-- 📫 How to reach me: dm
-- ⚡ Fun fact: synths should be free
+- 👋 Hi, @zanderbraun here
+- 👀 Enthusiastic about GameDev
+- 🌟 Currently learning C++
+- 👄 Interested in Python and Machine Learning
+- 💖 Working on my personal project
 
 <!---
 zanderbraun/zanderbraun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
